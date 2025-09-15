@@ -13,7 +13,7 @@ int main()
    printf("logical operation result :-");
    printf("AND result : %d\n",(x>5&& y<10));    //and
    printf("OR result : %d\n",(x>5 || y<10));    // or
-   printf("NOT result : %d\n",!(x> y<10));      //not
+   printf("NOT result : %d\n",!(x> y));      //not
 
    
    return 0;
