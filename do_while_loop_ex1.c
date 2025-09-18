@@ -7,6 +7,6 @@ int main()
 		i++;
 		
 			}
-	while(i<60\n);
+	while(i<5);
 	return 0;
 }
